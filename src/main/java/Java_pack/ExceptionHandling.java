@@ -13,6 +13,7 @@ public class ExceptionHandling {
             System.out.println("Test Fail");
             System.out.println("Arithmetic Exception");
             throw new ArithmeticException("Test");
+
         }
 
     }
