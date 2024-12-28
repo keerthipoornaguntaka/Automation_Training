@@ -39,8 +39,6 @@ public class DataTypes {
         boolean b = dataTypes.decide();
         System.out.println(b);
         System.out.println(dataTypes.total());
-
-
     }
 
 }
