@@ -1,4 +1,4 @@
-package com.ft.basics;
+package Java_pack;
 
 public class DataTypes {
 
